@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ2546
   title: སྐལ་ལྡན་གྱི་སློབ་བུའི་ཚོགས་ལ་གདམས་པ་བསླབ་བྱའི་སྐོར་བླང་དོར་གསལ་སྒྲོན
-  volume: ''
+  volume:
+    c2a451b24a11461f9e33fe06d4092e2f:
+      image_group_id: I1CZ2714
+      title: Volume 1 of skal ldan gyi slob bu'i tshogs la gdams pa bslab bya'i skor
+        blang dor gsal sgron
+      volume_number: 1
+      total_pages: 100
   author: ''
+ebook_metadata:
+  title: སྐལ་ལྡན་གྱི་སློབ་བུའི་ཚོགས་ལ་གདམས་པ་བསླབ་བྱའི་སྐོར་བླང་དོར་གསལ་སྒྲོན
+  author: ''
+  sku: P007989
+  cover: cover.jpg
+  layers:
+  - pagination
