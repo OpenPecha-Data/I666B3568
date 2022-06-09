@@ -1,0 +1,28 @@
+id: I666B3568
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-23T11:23:43+00:00'
+last_modified: '2022-06-09T08:22:14.553998+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1CZ2546
+  title: སྐལ་ལྡན་གྱི་སློབ་བུའི་ཚོགས་ལ་གདམས་པ་བསླབ་བྱའི་སྐོར་བླང་དོར་གསལ་སྒྲོན
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    '4245':
+      image_group_id: I1CZ2714
+      title: Volume 1 of skal ldan gyi slob bu'i tshogs la gdams pa bslab bya'i skor
+        blang dor gsal sgron
+      total_pages: 100
+      order: 1
+      base_file: 4245.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
